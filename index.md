@@ -14,7 +14,7 @@ humantime: "09:30 - 17:00 CEST"    # human-readable times for the workshop e.g.,
 startdate: 2022-12-08      # machine-readable start date YYYY-MM-DD format like 2015-01-01
 enddate: 2022-12-09        # machine-readable end date in YYYY-MM-DD format like 2015-01-02
 instructor: ["Misha Paauw", "Jesse Kerkvliet", "Sam Nooij"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Claudia Zirion Martinez""]     # boxed, comma-separated list of helpers' names
+helper: ["Claudia Zirion Martinez"]     # boxed, comma-separated list of helpers' names
 email: ['m.m.paauw@uva.nl','j.j.kerkvliet@umcutrecht.nl', 'S.Nooij@lumc.nl']    
 collaborative_notes:  https://tinyurl.com/umc-metagenomics 
 eventbrite: 423208657487          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
