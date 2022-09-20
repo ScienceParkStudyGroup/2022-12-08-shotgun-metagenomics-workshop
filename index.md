@@ -137,7 +137,7 @@ address.
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
 <ul>
   <li>Day 1 (Thursday): room Vredenburg/Neude.</li>
-  <li>Day 2 (Friday): room 3 Descartes building Maliebaan.</li>
+  <li>Day 2 (Friday): room 3 Descartes building.</li>
 </ul>
 </p>
 
