@@ -137,7 +137,7 @@ address.
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
 <ul>
   <li>Day 1 (Thursday): room Vredenburg/Neude.</li>
-  <li>Day 2 (Friday): room 3 Descartes building.</li>
+  <li>Day 2 (Friday): Descartes room 3, Mattias van Geuns building, Bolognalaan 2-48, 3584 CJ Utrecht.</li>
 </ul>
 </p>
 
